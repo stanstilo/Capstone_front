@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2567,5 +2566,5 @@ If you're seeing this error, you're likely using an old version of `react-script
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebook/create-react-app/issues) or [contribute some!](https://github.com/facebook/create-react-app/edit/master/packages/react-scripts/template/README.md)
 =======
-# Capstone_frontend
->>>>>>> 0626a65c733cc26373f8921827cda8a1c16e4efc
+# Capstone_front
+>>>>>>> 8ce98b8847004e99a27cf3fd676dab742da612de
